@@ -69,50 +69,6 @@ For coffee house coupons:
 * Focus on drivers with flexible destinations.
 * Morning and afternoon offers may be more effective.
 
-## Conclusion
-
-The analysis shows that coupon acceptance is strongly influenced by prior customer behavior and driving context. Customers are more likely to accept coupons for places they already visit. 
-Therefore, targeted coupon delivery based on customer habits, passenger type, and travel situation can improve coupon acceptance rates.
-
-
-
-Final Findings Markdown for Notebook
-
-Findings
-
-The analysis shows that coupon acceptance is influenced by both customer behavior and driving context.
-
-For bar coupons, the overall acceptance rate was lower than the overall coupon acceptance rate. Drivers were more likely to accept bar coupons when they already visited bars frequently, 
-were younger, did not have children in the vehicle, were traveling with friends or a partner, frequently visited inexpensive restaurants, and had lower-to-middle income levels.
-
-The strongest pattern was prior behavior. Customers who already visited bars more than once per month accepted bar coupons at a higher rate than those who rarely or never visited bars.
-
-For coffee house coupons, customers who already visited coffee houses regularly were more likely to accept the coupon. Destination and time of day also appeared to influence acceptance.
-
-
-Final Recommendations Markdown for Notebook
-
-## Recommendations
-
-Businesses should use targeted coupon delivery instead of sending the same coupon to all drivers.
-
-For bar coupons:
-
-- Target customers who already visit bars at least once per month.
-- Prioritize drivers traveling with friends or partners.
-- Avoid sending bar coupons to drivers with children in the vehicle.
-- Focus on younger adults and customers who frequently dine out.
-
-For coffee house coupons:
-
-- Target customers who already visit coffee houses.
-- Send offers when drivers have flexible destinations.
-- Explore whether certain times of day improve acceptance.
-
-Overall, customer history and driving context should be used together to improve coupon acceptance rates.
-
-
-Final Next Steps Markdown for Notebook
 
 ## Next Steps
 
@@ -124,3 +80,7 @@ Future analysis could include below steps/points to consider:
 4. Studying the effect of coupon expiration time.
 5. Exploring weather, distance, and direction of travel in more detail.
 
+## Conclusion
+
+The analysis shows that coupon acceptance is strongly influenced by prior customer behavior and driving context. Customers are more likely to accept coupons for places they already visit. 
+Therefore, targeted coupon delivery based on customer habits, passenger type, and travel situation can improve coupon acceptance rates.
