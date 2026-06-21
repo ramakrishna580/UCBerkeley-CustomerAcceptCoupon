@@ -96,5 +96,5 @@ Therefore, targeted coupon delivery based on customer habits, passenger type, an
 
 Add your GitHub notebook link here after uploading:
 
-`https://github.com/yourusername/coupon-acceptance-analysis/blob/main/practical_application_1.ipynb`
+`https://github.com/ramakrishna580/UCBerkeley-CustomerAcceptCoupon/blob/main/practical_application_1.ipynb`
 
