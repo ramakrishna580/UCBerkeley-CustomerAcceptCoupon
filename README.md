@@ -89,7 +89,7 @@ Therefore, targeted coupon delivery based on customer habits, passenger type, an
 
 - `README.md`
 - `practical_application_1.ipynb`
-- `coupons.csv`
+- `data/coupons.csv`
 - `images/` (visualizations)
 
 ## Jupyter Notebook
