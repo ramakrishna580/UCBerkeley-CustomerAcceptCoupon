@@ -84,3 +84,17 @@ Future analysis could include below steps/points to consider:
 
 The analysis shows that coupon acceptance is strongly influenced by prior customer behavior and driving context. Customers are more likely to accept coupons for places they already visit. 
 Therefore, targeted coupon delivery based on customer habits, passenger type, and travel situation can improve coupon acceptance rates.
+
+## Repository Contents
+
+- `README.md`
+- `practical_application_1.ipynb`
+- `coupons.csv`
+- `images/` (visualizations)
+
+## Jupyter Notebook
+
+Add your GitHub notebook link here after uploading:
+
+`https://github.com/yourusername/coupon-acceptance-analysis/blob/main/practical_application_1.ipynb`
+
